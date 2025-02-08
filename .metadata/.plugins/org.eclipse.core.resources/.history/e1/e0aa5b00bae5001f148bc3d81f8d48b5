@@ -21,8 +21,6 @@ public class Principal {
 		
 		paciente = paciente2;
 		System.out.println(paciente == paciente2);
-		
-		
 	}
 
 }
